@@ -124,7 +124,7 @@ const av=average2
 return av.toString();
 }
 
-
+////
 
 /// 🥅 STRETCH 🥅 ///
 
