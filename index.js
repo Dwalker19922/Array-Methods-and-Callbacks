@@ -124,8 +124,7 @@ const av=average2
 return av.toString();
 }
 
- 
-console.log(getAverageGoals())
+
 
 /// 🥅 STRETCH 🥅 ///
 
@@ -158,7 +157,6 @@ Write a function called badDefense() that accepts a parameter `data` and calcula
 
 function badDefense(/* code here */) {
 
-    /* code here */
 
 }
 
@@ -179,3 +177,4 @@ export default{
     getWinnersByYear,
     getAverageGoals
 }
+//
